@@ -2,7 +2,7 @@
 ```markdown
 # Note Keeper App
 
-![Note Keeper App](insert-link-to-image-here)
+![Note Keeper App]
 
 The **Note Keeper App** is a web application developed using HTML, JavaScript, CSS, Node.js, and React. It's designed to help users manage their notes and stay organized. With this app, you can easily create, edit, and delete notes, and you can access your notes from anywhere with an internet connection. Whether you're a student taking notes in class or a professional keeping track of important information, the Note Keeper App is a valuable tool for staying organized.
 
